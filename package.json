@@ -1,7 +1,7 @@
 {
   "name": "monsters-rolodex",
   "version": "0.1.0",
-  "home": "https://github.com/DumindaManjula/monstor-rolodex",
+  "home": "https://dumindamanjula.github.io/monstor-rolodex",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
